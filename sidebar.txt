@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pmy:home|Door43 (pmy)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pmy|d43-pmy repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pmy/archive/master.zip|d43-pmy.zip]]
+
+**Recent Changes**
+{{changes>ns = pmy}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pmy|Ethnologue data]]
+
