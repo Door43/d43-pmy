@@ -1,9 +1,9 @@
-====== Complete List of Important Terms ======
+====== Complete List of translationWords - Papuan Malay======
 
 ==== "Key Terms" and "Other Terms" in OBE: ====
 
-  * [[:pmy:obe:kt:home|Key Terms]]
-  * [[:pmy:obe:other:home|Other Terms]]
+  * [[:pmy:obe:kt:home|List of the Key Terms in the OBE Directory]]
+  * [[:pmy:obe:other:home|List of the Other Terms in the OBE Directory]]
 
 
 ==== All Terms in the OBE: ====
